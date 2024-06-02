@@ -1,5 +1,5 @@
 IP: 51.250.110.201;
- name_taski: https://falcko.hopto.org;
- name_kittygram: https://dogshock.zapto.org;
- login: Admin;
- password: Admin;
+name_taski: https://falcko.hopto.org;
+name_kittygram: https://dogshock.zapto.org;
+login: Admin;
+password: Admin;
